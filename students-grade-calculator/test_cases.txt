@@ -1,0 +1,24 @@
+VALID TEST CASES
+95 -> Grade A
+88 -> Grade B
+75 -> Grade C
+64 -> Grade D
+40 -> Grade F
+
+INVALID TEST CASES
+150 -> Invalid (greater than 100)
+-5 -> Invalid (less than 0)
+abc -> Invalid (non-numeric input)
+@#$ -> Invalid (special characters)
+
+BOUNDARY TEST CASES
+0 -> Grade F
+59 -> Grade F
+60 -> Grade D
+69 -> Grade D
+70 -> Grade C
+79 -> Grade C
+80 -> Grade B
+89 -> Grade B
+90 -> Grade A
+100 -> Grade A
