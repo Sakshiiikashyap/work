@@ -93,7 +93,7 @@ python --version
 ### Step 3: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/student-grade-calculator.git
+git clone https://github.com/Sakshiiikashyap/work/tree/main/students-grade-calculator
 ```
 
 ### Step 4: Open the Project Folder
@@ -197,24 +197,6 @@ Grade Function
     ↓
 Result Display
 ```
-
----
-
-## Visual Documentation
-
-Add these screenshots inside the `screenshots/` folder.
-
-### 1. Valid Input
-
-Screenshot showing successful grade calculation.
-
-### 2. Invalid Input
-
-Screenshot showing error message for marks outside 0-100.
-
-### 3. Final Result
-
-Screenshot showing complete formatted result output.
 
 ---
 
