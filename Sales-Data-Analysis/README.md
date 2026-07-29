@@ -96,7 +96,7 @@ The following preprocessing steps were performed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Sales-Data-Analysis.git
+https://github.com/Sakshiiikashyap/work
 ```
 
 ### 2. Navigate to the project folder
